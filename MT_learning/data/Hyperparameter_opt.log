@@ -1,0 +1,2 @@
+Best trial: {'s_hidden_dim': 256, 'p_hidden_dim': 32, 'p_shared_hidden_dim': 64, 'd_hidden_dim': 32, 'd_shared_hidden_dim': 128, 'n_s': 0, 'n_p': 2, 'n_p_s': 3, 'n_d': 0, 'n_d_s': 1, 'lr': 0.0013359342912480613, 'dropout': 0.052262649299759954, 'active': 'leaky_relu'}
+Best test loss: 0.0903
