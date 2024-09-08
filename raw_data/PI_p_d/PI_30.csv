@@ -1,0 +1,8 @@
+smiles,p_min,p_max,p_mean,d_min,d_max,d_mean,testTemperature,testFrequency
+[H]c1ccc(Oc2cccc(Oc3cccc(N4C(=O)c5ccc(C(c6ccc7c(c6)C(=O)N([H])C7=O)(C(F)(F)F)C(F)(F)F)cc5C4=O)c3)c2C#N)cc1,3.43,3.43,3.43,0.0108,0.0108,0.0108,25,1.0
+[H]c1ccc(Oc2cccc(Oc3cccc(N4C(=O)c5ccc(C(c6ccc7c(c6)C(=O)N([H])C7=O)(C(F)(F)F)C(F)(F)F)cc5C4=O)c3)c2C#N)cc1,3.39,3.39,3.39,0.0088,0.0088,0.0088,25,10.0
+[H]c1ccc(Oc2cccc(Oc3cccc(N4C(=O)c5ccc(C(c6ccc7c(c6)C(=O)N([H])C7=O)(C(F)(F)F)C(F)(F)F)cc5C4=O)c3)c2C#N)cc1,3.34,3.34,3.34,0.0068,0.0068,0.0068,25,100.0
+[H]c1ccc(Oc2cccc(Oc3cccc(N4C(=O)c5ccc(C(c6ccc7c(c6)C(=O)N([H])C7=O)(C(F)(F)F)C(F)(F)F)cc5C4=O)c3)c2C#N)cc1,3.32,3.32,3.32,0.0052,0.0052,0.0052,25,1000.0
+[H]c1ccc(Oc2cccc(Oc3cccc(N4C(=O)c5ccc(C(c6ccc7c(c6)C(=O)N([H])C7=O)(C(F)(F)F)C(F)(F)F)cc5C4=O)c3)c2C#N)cc1,3.3,3.3,3.3,0.0039,0.0039,0.0039,25,10000.0
+[H]c1ccc(Oc2cccc(Oc3cccc(N4C(=O)c5ccc(C(c6ccc7c(c6)C(=O)N([H])C7=O)(C(F)(F)F)C(F)(F)F)cc5C4=O)c3)c2C#N)cc1,3.28,3.28,3.28,0.0027,0.0027,0.0027,25,100000.0
+[H]c1ccc(Oc2cccc(Oc3cccc(N4C(=O)c5ccc(C(c6ccc7c(c6)C(=O)N([H])C7=O)(C(F)(F)F)C(F)(F)F)cc5C4=O)c3)c2C#N)cc1,3.27,3.27,3.27,0.0019,0.0019,0.0019,25,1000000.0

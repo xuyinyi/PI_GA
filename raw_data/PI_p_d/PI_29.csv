@@ -1,0 +1,8 @@
+smiles,p_min,p_max,p_mean,d_min,d_max,d_mean,testTemperature,testFrequency
+[H]c1ccc(Oc2cccc(Oc3cccc(N4C(=O)c5ccc(Oc6ccc7c(c6)C(=O)N([H])C7=O)cc5C4=O)c3)c2C#N)cc1,3.17,3.17,3.17,0.008,0.008,0.008,25,1.0
+[H]c1ccc(Oc2cccc(Oc3cccc(N4C(=O)c5ccc(Oc6ccc7c(c6)C(=O)N([H])C7=O)cc5C4=O)c3)c2C#N)cc1,3.14,3.14,3.14,0.0061,0.0061,0.0061,25,10.0
+[H]c1ccc(Oc2cccc(Oc3cccc(N4C(=O)c5ccc(Oc6ccc7c(c6)C(=O)N([H])C7=O)cc5C4=O)c3)c2C#N)cc1,3.11,3.11,3.11,0.0044,0.0044,0.0044,25,100.0
+[H]c1ccc(Oc2cccc(Oc3cccc(N4C(=O)c5ccc(Oc6ccc7c(c6)C(=O)N([H])C7=O)cc5C4=O)c3)c2C#N)cc1,3.1,3.1,3.1,0.0031,0.0031,0.0031,25,1000.0
+[H]c1ccc(Oc2cccc(Oc3cccc(N4C(=O)c5ccc(Oc6ccc7c(c6)C(=O)N([H])C7=O)cc5C4=O)c3)c2C#N)cc1,3.09,3.09,3.09,0.0022,0.0022,0.0022,25,10000.0
+[H]c1ccc(Oc2cccc(Oc3cccc(N4C(=O)c5ccc(Oc6ccc7c(c6)C(=O)N([H])C7=O)cc5C4=O)c3)c2C#N)cc1,3.08,3.08,3.08,0.0014,0.0014,0.0014,25,100000.0
+[H]c1ccc(Oc2cccc(Oc3cccc(N4C(=O)c5ccc(Oc6ccc7c(c6)C(=O)N([H])C7=O)cc5C4=O)c3)c2C#N)cc1,3.07,3.07,3.07,0.0007,0.0007,0.0007,25,1000000.0
