@@ -1,8 +1,8 @@
-# Data-Driven Discovery of High-Performance Polyimides with Enhanced Heat Resistance and Dielectric Properties
+# Data-Driven Design of High-Performance Polyimides with Enhanced Heat Resistance and Dielectric Properties
 ***
 
 
-PI_GA: Data-Driven Discovery of High-Performance Polyimides with Enhanced Heat Resistance and Dielectric Properties
+PI_GA: Data-Driven Design of High-Performance Polyimides with Enhanced Heat Resistance and Dielectric Properties
 - https://xxxxxx.xxx
 
 ## Background
