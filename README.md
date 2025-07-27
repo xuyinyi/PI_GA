@@ -7,7 +7,7 @@ PI_GA: Data-Driven Design of High-Performance Polyimides with Enhanced Heat Resi
 
 ## Background
 ***
-This code is the basis of our work submitted to *XXXXXXX*, which aims to reverse engineer polyimides using multi-task learning and genetic algorithms to bring more insights into polymer design. 
+This code is the basis of our work submitted to *Advanced Functional Materials*, which aims to reverse engineer polyimides using multi-task learning and genetic algorithms to bring more insights into polymer design. 
 
 ## Prerequisites and dependencies
 ```
