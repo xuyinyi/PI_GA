@@ -3,7 +3,7 @@
 
 
 PI_GA: Data-Driven Design of High-Performance Polyimides with Enhanced Heat Resistance and Dielectric Properties
-- https://xxxxxx.xxx
+- https://doi.org/10.1002/adfm.202507614
 
 ## Background
 ***
